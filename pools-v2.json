@@ -1835,5 +1835,12 @@
     "addresses": [],
     "tags": ["/DMND/"],
     "link": "https://www.dmnd.work/"
+  },
+  {
+    "id": 172,
+    "name": "Rabid Pool",
+    "addresses": ["bc1qqnvmncpxrctv4049jea6wtww6j4nkgmm4ea9em"],
+    "tags": ["/Rabid Pool/"],
+    "link": "https://pool.rabidmining.com"
   }
 ]
